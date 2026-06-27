@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dominiong2026-stack.github.io/LA1044SC/sitemap.xml
